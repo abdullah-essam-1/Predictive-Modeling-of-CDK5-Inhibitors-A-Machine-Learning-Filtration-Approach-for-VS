@@ -1,0 +1,2 @@
+# Predictive-Modeling-of-CDK5-Inhibitors-A-Machine-Learning-Filtration-Approach-for-VS
+A machine learning-driven framework for virtual screening and drug discovery targeting CDK5 inhibitors. This project integrates cheminformatics, molecular feature extraction, and classification models to identify potential CDK5 inhibitors. It uses ChEMBL and PubChem data, SMOTE for balancing classes, and Random Forest and SVM models.
